@@ -1,0 +1,4 @@
+github.com/cloudwego/eino v0.5.14 h1:cthGepU40W75YXYGjpbfakVHrsBOXJhqXVLLcpY+UqM=
+github.com/cloudwego/eino v0.5.14/go.mod h1:N6E+toMzWw/3ql0IVM5n5lbYFCeblCYx7ebH16kt1JQ=
+github.com/cloudwego/eino-ext v0.0.1-alpha h1:EV9fUPfDj05aDQU+LwygreO6eljbWsVRMpb8BIHVlsc=
+github.com/cloudwego/eino-ext v0.0.1-alpha/go.mod h1:dyU1c6dvBTyh+qEeTqKHrGcFW67fEmL66cajhIRnVCA=
