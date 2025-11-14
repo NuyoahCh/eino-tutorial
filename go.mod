@@ -9,7 +9,6 @@ require (
 	github.com/cloudwego/eino-ext/components/model/ark v0.1.42
 	github.com/cloudwego/eino-ext/components/model/deepseek v0.0.0-20251111090228-91a10bbc864f
 	github.com/cloudwego/eino-ext/components/model/ollama v0.1.5
-	github.com/cloudwego/hertz v0.10.3
 )
 
 require (
@@ -20,6 +19,7 @@ require (
 	github.com/bytedance/sonic/loader v0.3.0 // indirect
 	github.com/cloudwego/base64x v0.1.6 // indirect
 	github.com/cohesion-org/deepseek-go v1.3.2 // indirect
+	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/eino-contrib/jsonschema v1.0.2 // indirect
 	github.com/eino-contrib/ollama v0.1.0 // indirect

@@ -31,8 +31,6 @@ github.com/cloudwego/eino-ext/components/model/deepseek v0.0.0-20251111090228-91
 github.com/cloudwego/eino-ext/components/model/deepseek v0.0.0-20251111090228-91a10bbc864f/go.mod h1:F+eoc/AeAz73V1EHIu8NzO1BXbLR4Jf2eayukNrqnxQ=
 github.com/cloudwego/eino-ext/components/model/ollama v0.1.5 h1:afBsBFwk8cRT3RT5LOW8jTdV4uZipCQpNQuBwM1zWL4=
 github.com/cloudwego/eino-ext/components/model/ollama v0.1.5/go.mod h1:agEXRRhFGNcTjaryXKNYxI58niFnVws5ipOz5QkScIc=
-github.com/cloudwego/hertz v0.10.3 h1:NFcQAjouVJsod79XPLC/PaFfHgjMTYbiErmW+vGBi8A=
-github.com/cloudwego/hertz v0.10.3/go.mod h1:W5dUFXZPZkyfjMMo3EQrMQbofuvTsctM9IxmhbkuT18=
 github.com/cohesion-org/deepseek-go v1.3.2 h1:WTZ/2346KFYca+n+DL5p+Ar1RQxF2w/wGkU4jDvyXaQ=
 github.com/cohesion-org/deepseek-go v1.3.2/go.mod h1:bOVyKj38r90UEYZFrmJOzJKPxuAh8sIzHOCnLOpiXeI=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
